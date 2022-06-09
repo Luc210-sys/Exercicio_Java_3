@@ -21,3 +21,5 @@ calcule a quantidade de salários mínimos esse usuário ganha e imprima o resul
 (1SM=R$788,00)
 6. Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu
 antecessor e seu sucessor.
+
+Obs: A lista de exercícios à ser resolvida no presente e nos próximos repositórios entitulados "Exercicio_Java_*" foi retirada do site do IFRN para fins de estudo: https://docente.ifrn.edu.br/nickersonferreira/disciplinas/fundamentos-de-logica-e-algoritmos-1o-ano-info/lista-de-exercicios-java-basico/view
